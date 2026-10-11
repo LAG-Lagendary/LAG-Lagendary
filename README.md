@@ -84,3 +84,6 @@ A couple of years ago (around 2025), I made the deliberate decision to completel
 ## 🚀 Future Outlook
 
 As I continue to build out this ecosystem, new production-ready pet projects and specialized infrastructure tools will be cleanly integrated into dedicated repositories. The goal is maintainable, scalable, and resilient engineering without the noise.
+
+```text
+.... . .-.. .-.. ---   /   . ...- . .-. -.-- --- -. .
