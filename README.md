@@ -9,7 +9,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LAG-Lagendary/LAG-Lagendary/main/assets/images/LAg.jpeg" alt="LAG Avatar" width="350px" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <div style="display: inline-block; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="https://raw.githubusercontent.com/LAG-Lagendary/LAG-Lagendary/main/assets/images/LAg.jpeg" alt="LAG Banner" width="600px" style="display: block; margin: 0;" />
+  </div>
 </div>
 
 <div align="center">
