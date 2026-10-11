@@ -1,10 +1,10 @@
 <div align="center">
 
 # Hi, my name is Vadim or LAG
-
-> **LAG** = **L**ocal **A**nomomaly **G**enerator
-
 </div>
+
+> [!NOTE]
+> **LAG** = **L**ocal **A**nomomaly **G**enerator
 
 ---
 
