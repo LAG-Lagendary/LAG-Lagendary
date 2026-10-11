@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 🎵 Audio Informatics & MIR
+### 🎵 Audio Informatics & Music Information Retrieval
 
 <p>
   <img src="https://img.shields.io/badge/Audio_Processing-FF6F00?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Audio" />
