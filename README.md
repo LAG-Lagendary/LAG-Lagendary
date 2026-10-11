@@ -9,6 +9,10 @@
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/LAG-Lagendary/LAG-Lagendary/main/assets/images/LAg.jpeg" alt="LAG Avatar" width="350px" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</div>
+
+<div align="center">
 
 ### 🛠️ Core Technology Stack
 
