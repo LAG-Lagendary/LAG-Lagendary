@@ -64,13 +64,13 @@ A couple of years ago (around 2025), I made the deliberate decision to completel
 
 ### Current Layout of the Public Workspace:
 
-1. **`LAG-Lagendary/`** *(This Profile Hub)*
+1. **[`LAG-Lagendary/`](https://github.com/LAG-Lagendary/LAG-Lagendary)** *(This Profile Hub)*
    * **Purpose:** The core landing page and system index of my GitHub profile, housing this overview and architectural vision.
-2. **`infrastructure-docs/`**
+2. **[`infrastructure-docs/`](https://github.com/LAG-Lagendary/infrastructure-docs)**
    * **Purpose:** Centralized system documentation, reliability checklists, and post-mortem experiment reports (including notes on DKMS modules, kernel resilience, and system recovery procedures).
-3. **`devops-training-labs/`**
+3. **[`devops-training-labs/`](https://github.com/LAG-Lagendary/devops-training-labs)**
    * **Purpose:** Structured training labs, exercises, and architectural notes covering DevOps, Docker, infrastructure-as-code, and automated CI/CD pipelines.
-4. **`old-pet-projects/`**
+4. **[`old-pet-projects/`](https://github.com/LAG-Lagendary/old-pet-projects)**
    * **Purpose:** A historical archive of early pet projects, legacy experiments, and past development iterations. It stands as a transparent museum of my engineering evolution.
 
 ---
